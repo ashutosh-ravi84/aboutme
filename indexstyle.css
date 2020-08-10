@@ -5,7 +5,8 @@ body
 	text-align: center;
 	font-family: sans-serif;
 background-color: #e4f9f5;	
-	
+	align-items: center;
+		align-content: center;
 }
 
 
